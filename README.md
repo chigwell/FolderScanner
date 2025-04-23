@@ -1,3 +1,9 @@
+[![PyPI version](https://badge.fury.io/py/FolderScanner.svg)](https://badge.fury.io/py/FolderScanner)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://static.pepy.tech/badge/FolderScanner)](https://pepy.tech/project/FolderScanner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
+
+
 # FolderScanner
 
 `FolderScanner` is a Python package that enables efficient scanning of directory structures, applying ignore rules similar to `.gitignore`, and chunking file contents for processing. It's designed to handle large datasets and is ideal for pre-processing tasks in data analysis or machine learning pipelines.
@@ -13,7 +19,7 @@
 To install `FolderScanner`, simply use pip:
 
 ```bash
-pip install git+https://github.com/chigwell/FolderScanner.git
+pip install FolderScanner
 ```
 
 ## Usage

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='FolderScanner',
-    version='0.1.0',
+    version='2025.4.231612',
     author='Eugene Evstafev',
     author_email='ee345@cam.ac.uk',
     description='Scan directories, apply ignore rules, and chunk file contents.',
